@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">AndroidTerm</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="app_name">안드로이드 스터디</string>
     <string name="menu_settings">Settings</string>
+    <string name="BookTitle">안드로이드단계별예제</string>
+    <string name="canvasdraw">캔버스에 도형그리기</string>
+    <string name="canvasimg">캔버스에 이미지 그리기</string>
+    <string name="detail_fragment">프래그먼트 예제</string>
+    <string name="fragmentdetail_main">안드로이드 단계별 수업</string>
 
 </resources>

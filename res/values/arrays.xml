@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="titlelists">
+        <item >그래픽(Draw &amp; Paint)</item>
+        <item >프래그먼트(Fragment)</item>
+        <item >액션바(ActionBar)</item>
+        <item >환경설정(Preferences)</item>
+    </string-array>
+    
+</resources>
